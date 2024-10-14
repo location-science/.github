@@ -1,4 +1,4 @@
-# LocationStories
+# Location Science
 
 Help understand the world and people better with stories everywhere.
 
