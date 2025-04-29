@@ -1,7 +1,7 @@
 # Location Science
 
-Help understand the world and people better with stories everywhere.
+Discover the stories of the world in your language and wherever you are.
 
-Erzählen Sie Geschichten über die Welt und die Menschen in Ihrer Lieblingssprache.
+Verstehe die Welt und die Menschen einfach besser - mit Geschichten von überall.
 
 用你熟悉的语言讲述世界各地发生过的故事。
